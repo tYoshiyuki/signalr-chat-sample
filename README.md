@@ -8,9 +8,6 @@ SignalR と React の Webチャット のサンプル
 - React
 - Redux
 
-## Demo
-- [Demo Site](https://signalr-chat-sample.azurewebsites.net/index.html)
-
 ## Note
 - サーバサイドは、Web API + SignalR で構成しています。
 - フロントエンドは、React + Redux で構成しています。
